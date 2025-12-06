@@ -1,0 +1,8 @@
+{
+  "name": "Nebula Gesture Particles",
+  "description": "A real-time 3D particle system controlled by hand gestures via Gemini Live API. Open your hand to expand the universe, close your fist to collapse it.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
